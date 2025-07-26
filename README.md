@@ -1,1 +1,1 @@
-# flag
+[click here](file:///flag.txt)
